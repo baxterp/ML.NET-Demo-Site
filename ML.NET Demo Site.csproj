@@ -5,6 +5,10 @@
     <RootNamespace>ML.NET_Demo_Site</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\lib\" />
+  </ItemGroup>
+
 
 
 </Project>
